@@ -1,5 +1,11 @@
 # MIDI-USB-interface-with-PIC18f2550
 
+- this is an simple USB->MIDI and MIDI->USB interface
+- can transmit long sysex messages
+- not necessary driver
+
+- hardware shematics circuit: Shematic.pdf
+
 Compile:
 
 1. Required the MPLAB IDE (classic) and Microchip C18 C compiler (v3.46)
