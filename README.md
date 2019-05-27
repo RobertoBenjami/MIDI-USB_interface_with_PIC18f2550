@@ -1,6 +1,6 @@
 # MIDI-USB-interface-with-PIC18f2550
 
-- this is an simple USB->MIDI and MIDI->USB interface
+- this is a simple USB->MIDI and MIDI->USB interface
 - can transmit long sysex messages
 - not necessary driver
 
